@@ -24,7 +24,9 @@ Your website must meet accessibility standards. You can achieve this completing 
 
 A screenshot of the Refactored Webpage is included to demonstrate the changes made for accessibility and SEO optimization.
 
-[Refactored Webpage](assets/images/code-refactor-index-html.png)
+[Refactored Webpage Screenshot](assets/images/code-refactor-index-html.png)
+
+[Refactored Webpage](https://wplusali.github.io/code-refactor/)
 
 ## License
 
