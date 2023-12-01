@@ -3,27 +3,27 @@
     padding: 0;
     margin: 0;
 }
-
+/* body styling */
 body {
     background-color: #d9dcd6;
 }
-
+/* header styling */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* logo */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
-.seo {
+/* logo 'seo' color */
+.seo { 
     color: #d9dcd6;
 }
-
+/* navigation menu */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,16 +40,16 @@ nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* anchor link styling */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* paragraph font-size */
 p {
     font-size: 16px;
 }
-
+/* hero image and styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* main or content styling */
 .content {
     width: 75%;
     display: inline-block;
@@ -92,14 +92,14 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* aside or benefit styling */
 .benefit {
-    margin-right: 20px;
+    margin: 0px 20px 20px 0px; /* Adjusted margin to match .content */
     padding: 20px;
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    height: 940px; /* Set height to match .content for better alignment */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
@@ -119,7 +119,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* footer styling */
 footer {
     padding: 30px;
     clear: both;
